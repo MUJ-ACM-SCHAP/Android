@@ -16,3 +16,9 @@ Android Studio 3.1.X is the recommended software for this course. You can downlo
 - [Installation instructions](https://developer.android.com/studio/install)    
 
 Students are required to have the IDE setup before attending any classes.
+
+## Students
+The student list is available [here](Student%20list.md)
+
+## Mentors
+The mentors for this course are [Aashis Kumar](https://github.com/aesher9o1) and [Yashovardhan Dhanania](https://github.com/yashovardhan99)
