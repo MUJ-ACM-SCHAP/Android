@@ -31,7 +31,7 @@ Students should carry the following devices and accessories every class -
 
 N.B. You can use an emulator with Android Studio instead of using a physical device for debugging but it is recommended to use a real physical device.
 
-##Class Schedule
+## Class Schedule
 Classes will be held every Tuesday (except during exams, holidays and as notified) from 6-8 PM in Room - 109, 1AB.
 
 ## Students
