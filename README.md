@@ -4,7 +4,7 @@ An online collection of notes, slides, assignments and more for the Silver level
 Students of the Android Development course are requested to watch this repository.
 
 ## Important Note :
-- Android Studio bundle for Windows and Linux will be distributed at New Mess, 1st floor on 15th September, 2018, 5:30 PM onwards. It is required to setup Android Studio before your first class.
+- Android Studio bundle for Windows and Linux will be distributed at New Mess, 1st floor on 16th September, 2018, 5:30 PM onwards. It is required to setup Android Studio before your first class. Carry a pendrive/harddrive.
 
 - Classes start on Tuesday, 18th September, 2018 - 6 PM - 8 PM, Room - 109, 1AB.
 
