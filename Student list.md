@@ -26,3 +26,10 @@
 - Bhishit Dave
 - Siddhant Sarkar
 - Vaishnav Gadia
+- Ashray Gupta
+- Kevin Peter
+- nikhil anand
+- Pranay Vithlani
+- Amogh Anand
+- Apoorv Kumar
+- Arunima khanna
