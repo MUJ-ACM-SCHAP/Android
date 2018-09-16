@@ -1,5 +1,7 @@
 # Android Development
-An online collection of notes, slides, assignments and more for the Silver level Android Development class of ACM MUJ SCHAP.
+![AndroidRobot](https://i.imgur.com/YVdS7J7.png)
+
+An online collection of notes, slides, assignments and more for the Silver level Android&trade; Development class of ACM MUJ SCHAP.
 
 Students of the Android Development course are requested to watch this repository.
 
@@ -8,6 +10,8 @@ Students of the Android Development course are requested to watch this repositor
 - The class to be held on Tuesday, 18th September, 2018 has been *cancelled* due to Freshers'18. Classes will be held from Tuesday, 25th September, 2018 : 6 PM - 8 PM, Room - 109, 1AB. See the [class schedule below](#class-schedule)
 
 - All students should immediately join [this telegram group for Android students only](https://t.me/joinchat/IANWQBHwcLq89VLoBEN0eQ). All important announcements regarding the class will be made in that group ONLY.
+
+![MUJACM](https://i.imgur.com/XuGvrWl.jpg)
 
 ## Course Plan
 The course plan is available [here](https://docs.google.com/document/d/1vzLP--91q6-Qjpdv_6hQRNL8EpJoDyQzO49XvUY8ryQ/edit?usp=sharing).
@@ -40,3 +44,8 @@ The student list is available [here](Student%20list.md)
 
 ## Mentors
 The mentors for this course are [Aashis Kumar](https://github.com/aesher9o1) and [Yashovardhan Dhanania](https://github.com/yashovardhan99)
+
+![MUJACMSCHAP](https://i.imgur.com/wcumXBy.png)
+
+The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.
+Android is a trademark of Google LLC.
