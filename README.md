@@ -4,9 +4,10 @@ An online collection of notes, slides, assignments and more for the Silver level
 Students of the Android Development course are requested to watch this repository.
 
 ## Important Note :
-- Android Studio bundle for Windows and Linux will be distributed at New Mess, 1st floor on 16th September, 2018, 5:30 PM onwards. It is required to setup Android Studio before your first class. Carry a pendrive/harddrive.
 
-- Classes start on Tuesday, 18th September, 2018 - 6 PM - 8 PM, Room - 109, 1AB. See the [class schedule below](#class-schedule)
+- The class to be held on Tuesday, 18th September, 2018 has been *cancelled* due to Freshers'18. Classes will be held from Tuesday, 25th September, 2018 : 6 PM - 8 PM, Room - 109, 1AB. See the [class schedule below](#class-schedule)
+
+- All students should immediately join [this telegram group for Android students only](https://t.me/joinchat/IANWQBHwcLq89VLoBEN0eQ). All important announcements regarding the class will be made in that group ONLY.
 
 ## Course Plan
 The course plan is available [here](https://docs.google.com/document/d/1vzLP--91q6-Qjpdv_6hQRNL8EpJoDyQzO49XvUY8ryQ/edit?usp=sharing).
