@@ -33,3 +33,4 @@
 - Amogh Anand
 - Apoorv Kumar
 - Arunima khanna
+- Kushagra Lakhmani
