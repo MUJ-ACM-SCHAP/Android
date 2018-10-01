@@ -1,5 +1,9 @@
 Firstly, Thank you for reading this! This means you are here, ready to contribute to this repository. We at MUJ ACM SCHAP truly want everyone of you to become good developers and coders. Contributing on github is an important step for that!
 
+## Important
+For submitting a project work/assignment, make sure you have the work inside the directory `Project [project #]/[your_name]`. For eg. for the 1st project (Hello world app), the app files should be in the folder `Project 1/My Name` (note capitalization). This is to ensure that all submissions for a particular project can be easily searched and found. Failure to do so will result in PR getting rejected till such changes are made.
+
+## Get Started
 So, what brought you here today?
 * Found an issue or bug in this repo? 
   * First, look under the [Issues](https://github.com/MUJ-ACM-SCHAP/Android/issues) to make sure it has not been reported yet.
