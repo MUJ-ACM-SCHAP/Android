@@ -50,3 +50,7 @@ The mentors for this course are [Aashis Kumar](https://github.com/aesher9o1) and
 
 The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.
 Android is a trademark of Google LLC.
+
+## Fun
+We'll get you updated with the latest Android version i.e. Android Pie. 
+![Android Pie](https://www.xda-developers.com/files/2018/08/android-9-pie-logo-810x298_c.jpg)
