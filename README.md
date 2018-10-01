@@ -52,4 +52,4 @@ Android is a trademark of Google LLC.
 
 ## Fun
 We'll get you updated with the latest Android version i.e. Android Pie. 
-![Android Pie](https://www.google.co.in/url?sa=i&source=images&cd=&ved=0ahUKEwiD4vTouOPdAhXGVisKHc8dAA8QMwgyKAEwAQ&url=https%3A%2F%2Fwww.xda-developers.com%2Fandroid-version-distribution-updated-for-august-with-no-sign-of-android-pie%2F&psig=AOvVaw2evKbm2kBtEDP7R3erQQoZ&ust=1538421499246128&ictx=3&uact=3)
+[Android Pie](https://www.xda-developers.com/files/2018/08/android-9-pie-logo-810x298_c.jpg)
