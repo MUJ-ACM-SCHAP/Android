@@ -12,10 +12,10 @@ We are proud to participate in Hacktoberfest! A month long celebration to suppor
 
 As a result, we are hosting a special contest for all students enrolled in android! The first student to open a succesfull PR with the changes we have described to them will have their PR accepted (provided they take care of all the little things like .gitignore). Students of Android development at MUJ ACM SCHAP only have to make a default Hello world app, push it on github and submit a PR to get their code added here!
 
-![MUJACM](https://i.imgur.com/XuGvrWl.jpg)
-
 ## Course Plan
 The course plan is available [here](https://docs.google.com/document/d/1vzLP--91q6-Qjpdv_6hQRNL8EpJoDyQzO49XvUY8ryQ/edit?usp=sharing).
+
+![MUJACM](https://i.imgur.com/XuGvrWl.jpg)
 
 ## Requirements
 
@@ -51,6 +51,7 @@ The mentors for this course are [Aashis Kumar](https://github.com/aesher9o1) and
 The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.
 Android is a trademark of Google LLC.
 
-## Fun
-We'll get you updated with the latest Android version i.e. Android Pie. 
+## Extras
+The latest version of android is - **Android Pie**
 ![Android Pie](https://www.xda-developers.com/files/2018/08/android-9-pie-logo-810x298_c.jpg)
+[Image Source](https://www.xda-developers.com/files/2018/08/android-9-pie-logo-810x298_c.jpg)
