@@ -40,7 +40,7 @@ Classes will be held every Tuesday (except during exams, holidays and as notifie
 The student list is available [here](Student%20list.md)
 
 ## Mentors
-The mentors for this course are [Aashis Kumar](https://github.com/aesher9o1) and [Yashovardhan Dhanania](https://github.com/yashovardhan99)
+The mentor for this course is [Yashovardhan Dhanania](https://github.com/yashovardhan99)
 
 ![MUJACMSCHAP](https://i.imgur.com/wcumXBy.png)
 
