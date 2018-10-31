@@ -1,9 +1,26 @@
-Firstly, Thank you for reading this! This means you are here, ready to contribute to this repository. We at MUJ ACM SCHAP truly want everyone of you to become good developers and coders. Contributing on github is an important step for that!
+Firstly, Thank you for reading this! This means you are here, ready to contribute to this repository. We at MUJ ACM SCHAP truly want each one of you to become good developers and coders. Contributing on github is an important step for that!
 
-## Important
-For submitting a project work/assignment, make sure you have the work inside the directory `Project [project #]/[your_name]`. For eg. for the 1st project (Hello world app), the app files should be in the folder `Project 1/My Name` (note capitalization). This is to ensure that all submissions for a particular project can be easily searched and found. Failure to do so will result in PR getting rejected till such changes are made.
+## General instructions
+- You *must* be a member of MUJ ACM Student Chapter to make major contributions to this repository (preferably a student in the android course).
+- Please make sure your real name is shown on your github profile. This helps in verifying that you are indeed a member of MUJ ACM SCHAP. In case you are not in the android dev class, it is also suggested to mention in a comment which course you are in and why you are making a PR.
+- In case you spot a minor issue (like a small bug, a typo or some other minor issue - please feel free to correct it in a PR and 
+- In case you spot an issue which you cant fix, open an issue.
+- When adding your own app, make sure you dont change other people's app in a major way (like by renaming a directory which affects other apps as well)
+- When adding a new project/assignment, follow assignment guidelines below
 
-## Get Started
+## Assignments
+When adding your assignments, follow these general rules:
+- Make sure you have created the android app in the folder `/Assignment #/your_name` to help collecting all similar assignments together. It is always suggested to create new assignments as new android studio projects rather than modifying previous one's and changing the folder names.
+- For major projects, you will be told to use a specific folder (say `/Diwali Project/Your name/`. Please stick to that.
+
+## Examples
+Usually, only mentors will add example apps in the `Examples` folder. You can, however, add your own app there if you believe it is a really good example app. In that case use the folder format `Examples/project_name`.
+
+If you spot a mistake in an example, do submit a PR to fix it!
+
+## Creating a pull request/issue
+***This section is only for those who don't know how to create a PR or an issue***
+
 So, what brought you here today?
 * Found an issue or bug in this repo? 
   * First, look under the [Issues](https://github.com/MUJ-ACM-SCHAP/Android/issues) to make sure it has not been reported yet.
