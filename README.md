@@ -5,12 +5,8 @@ An online collection of notes, slides, assignments and more for the Silver level
 
 Students of the Android Development course are requested to watch this repository.
 
-## Hacktoberfest
-We are proud to participate in Hacktoberfest! A month long celebration to support open source code! You can check out more at [this website](https://hacktoberfest.digitalocean.com/).    
-
-![HACKTOBERFEST](https://hacktoberfest.digitalocean.com/assets/logo-hacktoberfest-658b5aa2bd34e782d29c40bf6afbdff00f20fe1328efa6da17743878ba8db66f.png)
-
-As a result, we are hosting a special contest for all students enrolled in android! The first student to open a succesfull PR with the changes we have described to them will have their PR accepted (provided they take care of all the little things like .gitignore). Students of Android development at MUJ ACM SCHAP only have to make a default Hello world app, push it on github and submit a PR to get their code added here!
+## Contributing
+Read the [contributing guidelines](CONTRIBUTING.md) before making any Pull requests!
 
 ## Course Plan
 The course plan is available [here](https://docs.google.com/document/d/1vzLP--91q6-Qjpdv_6hQRNL8EpJoDyQzO49XvUY8ryQ/edit?usp=sharing).
